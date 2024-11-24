@@ -1,45 +1,4 @@
 
-/* src/App.js
-import React, { useState } from 'react';
-import './App.css';
-import Home from './Home'
-import Products from './Products'
-import About from './About'
-import Contact from './Contact'
-import Navigation from './Navigation'
-
-const App = () => {
-  const [currentPage, setCurrentPage] = useState('home');
-
-  let content;
-  switch (currentPage) {
-    case 'home':
-      content = <Home />;
-      break;
-    case 'products':
-      content = <Products />;
-      break;
-    case 'about':
-      content = <About />;
-      break;
-    case 'contact':
-      content = <Contact />;
-      break;
-    default:
-      content = <Home />;
-  }
-
-  return (
-    <div className="app">
-      <h1>Blush Bouquet</h1>
-      <Navigation setPage={setCurrentPage} />
-      <div className="content">{content}</div>
-    </div>
-  );
-}
-export default App;
-
-*/
 
 // src/App.js
 
