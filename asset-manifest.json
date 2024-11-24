@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-ecomm/static/css/main.1402fc47.chunk.css",
+    "main.js": "/react-ecomm/static/js/main.907a8f9b.chunk.js",
+    "main.js.map": "/react-ecomm/static/js/main.907a8f9b.chunk.js.map",
+    "runtime~main.js": "/react-ecomm/static/js/runtime~main.47b52ead.js",
+    "runtime~main.js.map": "/react-ecomm/static/js/runtime~main.47b52ead.js.map",
+    "index.html": "/react-ecomm/index.html",
+    "precache-manifest.17722031b72c490758e133c69c1e4d5d.js": "/react-ecomm/precache-manifest.17722031b72c490758e133c69c1e4d5d.js",
+    "service-worker.js": "/react-ecomm/service-worker.js",
+    "static/css/main.1402fc47.chunk.css.map": "/react-ecomm/static/css/main.1402fc47.chunk.css.map",
+    "static/media/1.png": "/react-ecomm/static/media/1.2412edbf.png",
+    "static/media/2.png": "/react-ecomm/static/media/2.95d6d8bc.png",
+    "static/media/3.png": "/react-ecomm/static/media/3.228eb082.png",
+    "static/media/4.png": "/react-ecomm/static/media/4.3a7169d7.png",
+    "static/media/5.png": "/react-ecomm/static/media/5.ad380cb4.png",
+    "static/media/6.png": "/react-ecomm/static/media/6.b3374807.png",
+    "static/media/App.css": "/react-ecomm/static/media/bg.1bd63042.jpeg"
+  }
+}
